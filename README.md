@@ -1,2 +1,3 @@
 # Semantic-Feature-Norms
 semantic feature norms produced in a classic property-generation task, in response to a set of 185 concrete and abstract concepts.
+These concepts have been identified as source or target domains in a set of visual or linguistic metaphors (Bolognesi 2016). Metaphors have been detected by applying the MIPVU and the VISMIP procedures to text and images. The initial dataset included 161 concepts. Metaphors reformulations at a higher and more abstract level led to a higher number of concepts, for which semantic features were collected. The current database encompasses 185 concrete and abstract concepts.
